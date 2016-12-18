@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splashbackgroud.png",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/splashbackgroud.png"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/richpush_btn_selector.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/richpush_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_divider.png",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_richpush_actionbar_back.png",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gizwitslogo.png",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable-hdpi/gizwitslogo.png"
+    }
+]

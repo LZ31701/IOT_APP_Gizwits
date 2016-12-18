@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.idea/inspectionProfiles
+.idea/gradle.xml
+.DS_Store
+/build
+/captures
+/logrecord
+gradle.properties
+

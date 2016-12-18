@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_register_user.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_register_user.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_about.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_about.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_empty.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_empty.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_device_ready.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_device_ready.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_user_login.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_user_login.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/view_gos_title_listview.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/view_gos_title_listview.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/item_gos_mode_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/item_gos_mode_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_capture.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_capture.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_logout.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_logout.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_quit.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_quit.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/actvity_gos_device_reset.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/actvity_gos_device_reset.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_airlink_choose_device_workwifi.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_airlink_choose_device_workwifi.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_device_control.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_device_control.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_config_countdown.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_config_countdown.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_modelist.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_modelist.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_choose_device.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_choose_device.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_new_device.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_new_device.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_config_failed.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_config_failed.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_settings.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_settings.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/view_gos_notification.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/view_gos_notification.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_check_device_workwifi.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_check_device_workwifi.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_airlink_config_countdown.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_airlink_config_countdown.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/item_gos_wifi_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/item_gos_wifi_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/actvity_gos_airlink_ready.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/actvity_gos_airlink_ready.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_device_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_device_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_no_id.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_no_id.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/item_gos_device_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/item_gos_device_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/alert_gos_wifi_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/alert_gos_wifi_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_forget_password.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_forget_password.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/layout/activity_gos_colorlist.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/layout/activity_gos_colorlist.xml"
+    }
+]

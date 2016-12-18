@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/menu/devicelist_login.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/menu/devicelist_login.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/menu/devicelist_logout.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/menu/devicelist_logout.xml"
+    }
+]

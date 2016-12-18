@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/border_layer_list.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/border_layer_list.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/background.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/alert_top_shape.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/alert_top_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/checkbox_laws_selector.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/checkbox_laws_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/devicelist_item_selector.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/devicelist_item_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/alert_bottom_right_shape.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/alert_bottom_right_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/alert_bottom_shape.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/alert_bottom_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/img_bg_shape.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/img_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/checkbox_hook_selector.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/checkbox_hook_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/airlink.gif",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/airlink.gif"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/alert_bottom_left_shape.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/alert_bottom_left_shape.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/btn_next_shape_gray.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/btn_next_shape_gray.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/round_rect.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/round_rect.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/btn_getcode_shape_gray.xml",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/btn_getcode_shape_gray.xml"
+    },
+    {
+        "merged": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/build/intermediates/res/merged/debug/drawable/resetsoftap.gif",
+        "source": "/Users/zhangwenhu/SSStudio/SSPrivateWork/IOT_APP_Gizwits/app/src/main/res/drawable/resetsoftap.gif"
+    }
+]
